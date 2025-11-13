@@ -1,0 +1,1 @@
+bl_info = {\n    'name': "Your Addon Name",\n    'blender': (2, 82, 0),\n    'category': 'Object',\n    'description': "Addon description.",\n    'author': "Your Name",\n    'version': (1, 0),\n}\n\ndef register():\n    pass\n\ndef unregister():\n    pass\n
